@@ -4,7 +4,6 @@ body:
   - type: checkboxes
     id: acknowledgement
     attributes:
-      label: "✅ Viability Checklist"
       options:
       - label: I acknowledge that issues using this template may be closed without further explanation at the maintainer's discretion. 
         required: true
