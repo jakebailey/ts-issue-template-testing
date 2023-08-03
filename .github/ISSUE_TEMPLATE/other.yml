@@ -11,6 +11,6 @@ body:
   - type: textarea
     id: contents
     attributes:
-      label: What's up?
+      label: Comment
     validations:
       required: true
